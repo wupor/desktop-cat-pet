@@ -1,0 +1,4 @@
+# Desktop Cat Pet - 桌面电子猫咪
+# 一个可交互的桌面伴侣猫咪 🐱
+# 零外部依赖，只需 Python 标准库
+# GitHub: https://github.com/wupor/desktop-cat-pet
